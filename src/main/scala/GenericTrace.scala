@@ -1,7 +1,7 @@
 package testchipip
 
-import chipsalliance.rocketchip.config.Field
 import chisel3._
+import org.chipsalliance.cde.config.Field
 import freechips.rocketchip.diplomacy.{BundleBridgeNexusNode, LazyModuleImp}
 import freechips.rocketchip.rocket.GenericTrace
 import freechips.rocketchip.subsystem.HasTiles
